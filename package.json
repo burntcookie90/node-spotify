@@ -1,0 +1,14 @@
+{
+  "name": "node-spotify",
+  "version": "0.0.0",
+  "description": "node wrapper for spotify web-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Vishnu Rajeevan",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.36.0"
+  }
+}
