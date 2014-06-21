@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/burntcookie90/node-spotify.svg?branch=master)](https://travis-ci.org/burntcookie90/node-spotify)
+
 Example
 ======
 
